@@ -2,24 +2,7 @@
 Welcome to the DSA section of the data-engineer-roadmap repository!
 This section is dedicated to building strong foundational skills in Data Structures and Algorithms, which are essential for excelling in coding interviews, problem-solving, and technical roles at top-tier companies like FAANG.
 
-📂 Folder Structure
-Copy
-Edit
-DSA/
-├── Sorting/
-│   ├── bubble_sort.py
-│   ├── insertion_sort.py
-│   ├── selection_sort.py
-│   └── ...
-├── Searching/
-│   ├── linear_search.py
-│   ├── binary_search.py
-│   └── ...
-├── LinkedList/
-├── Trees/
-├── Graphs/
-├── Recursion/
-└── README.md
+
 ✅ What You'll Find Here
 Clean and beginner-friendly Python code for each algorithm
 
