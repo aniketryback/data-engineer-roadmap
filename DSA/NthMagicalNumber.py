@@ -29,7 +29,7 @@ def magicnumber2(n):
     pow = 5
     sum = 0
     while(n > 0):
-        last = n & 1
+        last = n & 1 #(Gives the last digit of the binary representation of n)
         sum += last * pow
         n = n >> 1
         pow = pow * 5
